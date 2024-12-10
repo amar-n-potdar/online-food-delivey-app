@@ -2,6 +2,7 @@
   "name": "swiggy1",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://github.com/amar-n-potdar/online-food-delivey-app.git",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
