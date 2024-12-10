@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkswiggy1=self.webpackChunkswiggy1||[]).push([[70],{70:(e,s,r)=>{r.r(s),r.d(s,{default:()=>i});var c=r(579);const i=()=>(0,c.jsx)("div",{children:(0,c.jsx)("h1",{children:"Our grocery Online store"})})}}]);
+//# sourceMappingURL=70.771d588f.chunk.js.map

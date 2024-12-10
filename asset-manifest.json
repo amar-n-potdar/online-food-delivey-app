@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/amar-n-potdar/online-food-delivey-app.git/static/css/main.d9fffcc9.css",
+    "main.js": "/amar-n-potdar/online-food-delivey-app.git/static/js/main.97972838.js",
+    "static/js/70.771d588f.chunk.js": "/amar-n-potdar/online-food-delivey-app.git/static/js/70.771d588f.chunk.js",
+    "static/js/453.754452ff.chunk.js": "/amar-n-potdar/online-food-delivey-app.git/static/js/453.754452ff.chunk.js",
+    "index.html": "/amar-n-potdar/online-food-delivey-app.git/index.html",
+    "main.d9fffcc9.css.map": "/amar-n-potdar/online-food-delivey-app.git/static/css/main.d9fffcc9.css.map",
+    "main.97972838.js.map": "/amar-n-potdar/online-food-delivey-app.git/static/js/main.97972838.js.map",
+    "70.771d588f.chunk.js.map": "/amar-n-potdar/online-food-delivey-app.git/static/js/70.771d588f.chunk.js.map",
+    "453.754452ff.chunk.js.map": "/amar-n-potdar/online-food-delivey-app.git/static/js/453.754452ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9fffcc9.css",
+    "static/js/main.97972838.js"
+  ]
+}
